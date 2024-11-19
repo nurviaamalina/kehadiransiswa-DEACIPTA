@@ -1,16 +1,8 @@
 # kehadiransiswa
 
-A new Flutter project.
+DEA CIPTA NINGRUM AIMANTA PUTRI 
+NIM : 362358302147
+## 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. ![Screenshot (1310)](https://github.com/user-attachments/assets/53832659-fae6-47c4-a31c-7e1453824a83)
+2. ![Screenshot (1311)](https://github.com/user-attachments/assets/49a092fe-ad76-4eed-9497-7ebf2a4f056b)
