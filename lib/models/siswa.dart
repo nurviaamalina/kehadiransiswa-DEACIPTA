@@ -1,6 +1,6 @@
 class Siswa {
   final String nama ;
- late final  bool hadir;
+  bool hadir;
 
 Siswa({required 
  this.nama, 
