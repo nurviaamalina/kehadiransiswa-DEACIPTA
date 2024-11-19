@@ -4,5 +4,7 @@ DEA CIPTA NINGRUM AIMANTA PUTRI
 NIM : 362358302147
 ## 
 
-1. ![Screenshot (1310)](https://github.com/user-attachments/assets/53832659-fae6-47c4-a31c-7e1453824a83)
-2. ![Screenshot (1311)](https://github.com/user-attachments/assets/49a092fe-ad76-4eed-9497-7ebf2a4f056b)
+1. ![Screenshot (1313)](https://github.com/user-attachments/assets/55d0af14-6630-4a04-8246-3762e14d822b)
+2. ![Screenshot (1312)](https://github.com/user-attachments/assets/f2e4fa3f-fd91-4f40-b75d-234720cc7cc8)
+
+
