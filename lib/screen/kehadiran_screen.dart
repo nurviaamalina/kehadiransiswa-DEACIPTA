@@ -20,12 +20,20 @@ class KehadiranScreen extends StatelessWidget {
                 itemCount: provider.siswa.length,
                 itemBuilder: (context, index) {
                   final siswa = provider.siswa[index];
-                  return CheckboxListTile(
-                    title: Text(siswa.nama), // Menggunakan nama siswa
-                    value: siswa.hadir, // Status hadir
-                    onChanged: (value) {
-                      provider.toggleAttendance(index); // Memanggil method toggleAttendance
-                    },
+                  return Column(
+                    children: [
+                      CheckboxListTile(
+                        title: Text(siswa.nama), // Nama siswa
+                        value: siswa.hadir, // Status hadir
+                        onChanged: (value) {
+                          provider.toggleAttendance(index); // Memanggil method toggleAttendance
+                        },
+                      ),
+                      Divider(
+                        color: const Color.fromARGB(255, 75, 74, 74),
+                        thickness: 1,
+                      ),
+                    ],
                   );
                 },
               ),
