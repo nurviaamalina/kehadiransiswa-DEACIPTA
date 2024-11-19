@@ -15,12 +15,23 @@ class RiwayatScreen extends StatelessWidget {
           final record = provider.attendanceHistory[index];
           final date = record['tanggal'] as DateTime;
 
-          return ListTile(
+          return Column(
+            children: [
+              ListTile(
             title: Text('${date.day}-${date.month}-${date.year}'),
             subtitle: Text(
                 'Hadir: ${record['jumlahHadir']}, Tidak Hadir: ${record['jumlahTidakHadir']}'),
-          );
+                 
+          ),
+           Divider(
+                color: const Color.fromARGB(255, 87, 85, 85),
+                thickness: 1,
+              ), 
+            ],
+          );  
+            
         },
+
       ),
     );
   }
